@@ -1,5 +1,3 @@
-
-
 def calcprob(k,m,n):
     tot = k+m+n
     #probability of recessive Phenotype given One parent is 'Tt'
